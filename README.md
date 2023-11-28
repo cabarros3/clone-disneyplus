@@ -1,5 +1,8 @@
 # CLONE DISNEY+ :mouse: :tv:
 
+#Data do projeto: Julho de 2021
+
+
 ## Planejamento
 
 1. Como é a home do disney+?
