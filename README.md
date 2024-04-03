@@ -1,6 +1,9 @@
 # CLONE DISNEY+ :mouse: :tv:
+[Confira o deploy do projeto](https://clone-disneyplus.netlify.app/)
 
-#Data do projeto: Julho de 2021
+![](https://raw.githubusercontent.com/cabarros3/clone-disneyplus/master/assets/projeto/FireShot%20Capture%20071%20-%20Disney%2B%20-%20Filmes%20e%20S%C3%A9ries%20-%20clone-disneyplus.netlify.app.png)
+
+*Data do projeto: Julho de 2021*
 
 
 ## Planejamento
